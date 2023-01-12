@@ -1,0 +1,13 @@
+{
+    "guid": "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b",
+    "material": "d5e247de-909a-43d2-a09f-b711e093d5cb",
+    "descriptor_contents": [
+        {
+            "texture": "a6e8b812-86ee-20ce-4d85-fe4a3ec07690",
+            "address_mode": 0
+        }
+    ],
+    "thumbnailGuid": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6",
+    "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+    "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f"
+}
