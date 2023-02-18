@@ -1,0 +1,52 @@
+{
+    "guid": "728bef6e-b774-cf53-f16a-f136765878c5",
+    "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "eb6bb589-dea9-c38d-2eed-5d2d5f9e8f0c",
+    "data_components": [],
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "728bef6e-b774-cf53-f16a-f136765878c5"
+    },
+    "joints": {
+        "09e03001-7d5d-7b08-3a76-5329c0ae0114": {
+            "name": "Eyebrow_L",
+            "index": 9
+        },
+        "184d0920-cbba-70c1-02ed-e8737ffd9ebc": {
+            "name": "Head2",
+            "index": 6
+        },
+        "39e4e85b-0704-e500-4ae0-62cd7e141841": {
+            "name": "Head3",
+            "index": 7
+        },
+        "5067a8de-f272-6c30-9271-89c0d1bc3b62": {
+            "name": "SK_Ball",
+            "index": 1
+        },
+        "8a738064-f6ca-0eac-b436-5ba6e5cbf597": {
+            "name": "Eyebrow_R",
+            "index": 8
+        },
+        "a4a850a4-2830-21ed-7221-c726ad0eae62": {
+            "name": "root",
+            "index": 2
+        },
+        "a6f246c3-2f1e-1d6d-822e-4db9824521be": {
+            "name": "Head",
+            "index": 5
+        },
+        "c77cdd1d-cd65-ff8a-a59a-6008b57e742a": {
+            "name": "Body",
+            "index": 3
+        },
+        "f189fb4e-d635-1874-68fb-c2924032dda3": {
+            "name": "Mouth",
+            "index": 4
+        },
+        "fd101b2c-f84d-abe2-9725-b4d3bcae8df7": {
+            "name": "RootNode",
+            "index": 0
+        }
+    }
+}
