@@ -725,10 +725,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Wood Dark.mtli.nasset.tex.nasset"
     },
-    "3ab745aa-6a7d-608d-321a-60e00705f78f": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Mindkraft_EnviroSpecular.tex.nasset"
-    },
     "3bf8c558-853e-9b15-c23e-7a85aeb34c83": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3084,6 +3080,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Landscape 03.mesh.nasset/Thumbnails/Landscape 03.mesh.nasset.tex.nasset"
     },
+    "c1b42fa1-b0c2-907d-5678-f675059c8aa4": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Winter_Bliss_Thumb.tex.nasset"
+    },
     "c1e45a19-2216-1213-db02-bceaab44fa43": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3131,10 +3131,6 @@
             "78e15a39-8acb-aa95-6454-2b38937784ca",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
-    },
-    "c2940fa0-88d1-e650-7003-f9e85ffe8c39": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Mindkraft_Enviro.tex.nasset"
     },
     "c2c31f83-2c45-113d-c3e9-ab8373a22920": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3468,10 +3464,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "d9fa4ff1-8968-23db-8e67-77642cb4d88e": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Cubemaps/Mindkraft_EnviroDiffuse.tex.nasset"
-    },
     "da3bcec0-eb97-d186-10d8-c9e7e1b0032a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Carrot.mtli.nasset.tex.nasset"
@@ -3480,7 +3472,7 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Winter Bliss",
-        "thumbnail": "f219ecab-2683-4910-8f8e-9309bbe2eb9f"
+        "thumbnail": "c1b42fa1-b0c2-907d-5678-f675059c8aa4"
     },
     "de3aa7fe-6e03-581e-42d8-43dcd600ff56": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
