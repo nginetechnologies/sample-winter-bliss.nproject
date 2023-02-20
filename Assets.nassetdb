@@ -115,6 +115,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Red Light.mtli.nasset.tex.nasset"
     },
+    "0e0f77fa-a587-bd2e-700f-aa17a9342823": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb"
+    },
     "0e701879-21a7-8e67-7627-6088db53b25a": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1321,12 +1325,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/M_Skybox.mtli.nasset",
-        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
-    },
     "5c062f42-4f94-7747-c08c-f6eb10830925": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Elm 05.mesh.nasset/Thumbnails/Elm 05.mesh.nasset.tex.nasset"
@@ -1508,6 +1506,12 @@
             "afd09061-fab8-4cd1-921c-7e3286b11d00",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "66a849dd-11f9-4231-a7d3-84d8d00e644e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/M_Blue_Sky.mtli.nasset",
+        "thumbnail": "1b705561-d3bf-fb1d-63af-9c19a3587c68"
     },
     "68248690-1526-9a40-df91-c72450301943": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
