@@ -3046,6 +3046,10 @@
             "8f2b3124-b17c-25f9-9eb8-27788264cf97"
         ]
     },
+    "beeccafe-fa95-2923-2e5d-acaab64a1c28": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Winter_EnviroDiffuse.tex.nasset"
+    },
     "bf1e2811-7929-2f00-57a5-a6578a1af07f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Landscape 04.mesh.nasset/Thumbnails/Landscape 04.mesh.nasset.tex.nasset"
@@ -3856,6 +3860,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "eeee9473-4e04-5dc0-1b26-12489fbb309e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Winter_Enviro.tex.nasset"
+    },
     "ef32ff0f-6450-222d-540a-57ff1b814b46": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Snowman.mesh.nasset/Thumbnails/Snowman.mesh.nasset.tex.nasset"
@@ -3871,6 +3879,10 @@
             "c8e613df-8d13-b8cc-6a9b-aca9d76a98c0",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "f0a1c2e9-30f2-f3f9-f148-9659ede2e58e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Winter_EnviroSpecular.tex.nasset"
     },
     "f0c0ccc0-311d-ee8d-98a1-1216f183032b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
