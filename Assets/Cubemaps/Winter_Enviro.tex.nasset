@@ -6,7 +6,7 @@
         512
     ],
     "preset": 9,
-    "intensity_factor": 3,
+    "intensity_factor": 5,
     "usage_flags": 6,
     "array_size": 6,
     "bc_data": {
