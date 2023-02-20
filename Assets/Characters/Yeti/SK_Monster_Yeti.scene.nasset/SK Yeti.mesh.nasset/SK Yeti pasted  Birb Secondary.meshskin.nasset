@@ -1,0 +1,25 @@
+{
+    "guid": "b4b19d19-6879-5982-fdde-5042be6753dd",
+    "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+    "instanceGuid": "0d16fc62-9646-ca5b-e2e1-04d3fb9c4280",
+    "data_components": [],
+    "9f750482-b822-4d4b-be6a-9c135c614328": {
+        "stages": [
+            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+        ]
+    },
+    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+        "mesh": "b4b19d19-6879-5982-fdde-5042be6753dd",
+        "material_instance": "630e16b7-3a37-e005-e8e0-d9c5ce690368"
+    },
+    "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+        "skin": "30a66d9c-580c-abb5-a125-0e53d92b5508"
+    },
+    "dependencies": [
+        "630e16b7-3a37-e005-e8e0-d9c5ce690368",
+        "4e63de9d-9509-55bf-d83f-d3a60ec1faca",
+        "30a66d9c-580c-abb5-a125-0e53d92b5508"
+    ],
+    "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c"
+}

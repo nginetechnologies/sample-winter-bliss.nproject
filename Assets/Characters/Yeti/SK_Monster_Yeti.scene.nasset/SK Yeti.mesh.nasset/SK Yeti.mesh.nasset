@@ -1,0 +1,244 @@
+{
+    "guid": "b971080e-ddba-cdae-3b0d-98a7eeffd5d5",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a6ba0663-1a84-6015-efa8-32032e67f3e1",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "f8396d4d-b966-5e74-5f42-8f94c8032e03",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Yeti Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                },
+                {
+                    "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                    "move_animations": [
+                        "677433ca-643b-46a2-a9a4-ef02513b966c",
+                        "8d665860-4ffa-4a0d-87a7-24bd7c0fc365",
+                        "d1453db8-7ce5-41cc-bd6a-b2e0f29c3e82"
+                    ],
+                    "jump_animations": [
+                        "0fd6b31f-62b0-42e3-8ca4-2853d3a7a723",
+                        "46731b77-9108-4ad7-8e8c-32f92b0c1a7b",
+                        "ad74b9c5-4bc9-4638-85aa-c0964b90777c"
+                    ]
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "353941e2-08be-fa28-09b0-84245eb7899a",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d43eb62e-2943-02f3-ce5e-94ce01e01d7b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Yeti pasted  Birb Secondary"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "630e16b7-3a37-e005-e8e0-d9c5ce690368",
+                                "material_instance": "30a66d9c-580c-abb5-a125-0e53d92b5508"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b4b19d19-6879-5982-fdde-5042be6753dd"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "210b0979-615d-a7da-af5d-24a590f59465",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Yeti Yeti Teeth"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "897e9248-8be2-fe3d-9341-1df614ddc0a6",
+                                "material_instance": "1204be3c-977e-34eb-1fba-11873692f7a1"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "688de11a-25e7-be88-bd36-c7b2dc370c33"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "c1ef5b15-04e3-56c4-b5f4-a0eea85de0f3",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Yeti Yeti Main"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7da96171-7dd6-c13c-aa8c-2efe7ae1d623",
+                                "material_instance": "b547fb44-c46f-b6a8-a41c-28fe9867164f"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "fb5169b9-6d87-8a96-a14e-649582c4bb62"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "1237f848-7b71-f10a-c930-87981569b7a9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Yeti Yeti Secondary"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "2eacdca1-c55a-2ed5-206a-4ceea0fd50cd",
+                                "material_instance": "4c98d29e-169b-e145-721d-a145b7efbab8"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c2192fc1-18c0-311f-0bd1-51db8c9ff671"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "62d7bd24-9612-079c-197b-099c1aef16d0",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Yeti Eye Black"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c48be1b0-808a-e571-b249-9ac6a3a5007a",
+                                "material_instance": "2261282a-ec6e-7249-35be-6bfdad0755cd"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "cee6a93d-8670-d217-69cb-8ed42dd5d622"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "615d4f2e-df21-5038-9e3d-e60c6c762e7a",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Yeti Tongue"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "65eba5cb-fc0a-6d81-e2c7-c5bfda1d6825",
+                                "material_instance": "fc2aab4e-ddba-fb5e-d04a-dff4ee9b86d1"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "afeb45f4-6e80-4e98-4330-85af3773c373"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "da6d9a0d-ac75-4866-cf5c-62806d923b60",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Yeti Eye White"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "705ef95e-dd3c-61f5-5c60-8e644f932fe5",
+                                "material_instance": "6d88cac6-f2ee-841b-8ca2-25a37e0cc608"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "889a3164-36fd-2deb-4503-757debac6b2c"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "2faa50ba-2b11-bfcc-3046-66d06f31f36c"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b971080e-ddba-cdae-3b0d-98a7eeffd5d5"
+    },
+    "dependencies": [
+        "30a66d9c-580c-abb5-a125-0e53d92b5508",
+        "630e16b7-3a37-e005-e8e0-d9c5ce690368",
+        "b4b19d19-6879-5982-fdde-5042be6753dd",
+        "1204be3c-977e-34eb-1fba-11873692f7a1",
+        "897e9248-8be2-fe3d-9341-1df614ddc0a6",
+        "688de11a-25e7-be88-bd36-c7b2dc370c33",
+        "b547fb44-c46f-b6a8-a41c-28fe9867164f",
+        "7da96171-7dd6-c13c-aa8c-2efe7ae1d623",
+        "fb5169b9-6d87-8a96-a14e-649582c4bb62",
+        "4c98d29e-169b-e145-721d-a145b7efbab8",
+        "2eacdca1-c55a-2ed5-206a-4ceea0fd50cd",
+        "c2192fc1-18c0-311f-0bd1-51db8c9ff671",
+        "2261282a-ec6e-7249-35be-6bfdad0755cd",
+        "c48be1b0-808a-e571-b249-9ac6a3a5007a",
+        "cee6a93d-8670-d217-69cb-8ed42dd5d622",
+        "fc2aab4e-ddba-fb5e-d04a-dff4ee9b86d1",
+        "65eba5cb-fc0a-6d81-e2c7-c5bfda1d6825",
+        "afeb45f4-6e80-4e98-4330-85af3773c373",
+        "6d88cac6-f2ee-841b-8ca2-25a37e0cc608",
+        "705ef95e-dd3c-61f5-5c60-8e644f932fe5",
+        "889a3164-36fd-2deb-4503-757debac6b2c",
+        "4e63de9d-9509-55bf-d83f-d3a60ec1faca"
+    ]
+}
