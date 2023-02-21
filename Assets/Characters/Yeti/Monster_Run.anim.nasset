@@ -10,8 +10,15 @@
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
             "animation": "d1453db8-7ce5-41cc-bd6a-b2e0f29c3e82"
+        },
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "d1453db8-7ce5-41cc-bd6a-b2e0f29c3e82"
         }
     ],
     "guid": "d1453db8-7ce5-41cc-bd6a-b2e0f29c3e82",
-    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9"
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "7f0899ff-c944-13d3-fe5e-4ae737d64a2b"
+    ]
 }
