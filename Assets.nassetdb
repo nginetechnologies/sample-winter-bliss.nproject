@@ -207,7 +207,10 @@
     "0fd6b31f-62b0-42e3-8ca4-2853d3a7a723": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Yeti/Monster_Jump_Start.anim.nasset"
+        "path": "Assets/Characters/Yeti/Monster_Jump_Start.anim.nasset",
+        "dependencies": [
+            "7f0899ff-c944-13d3-fe5e-4ae737d64a2b"
+        ]
     },
     "10d94ca4-76e8-33f4-27a8-074092bcda16": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -931,7 +934,10 @@
     "46731b77-9108-4ad7-8e8c-32f92b0c1a7b": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Yeti/Monster_Jump_Loop.anim.nasset"
+        "path": "Assets/Characters/Yeti/Monster_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "7f0899ff-c944-13d3-fe5e-4ae737d64a2b"
+        ]
     },
     "4699efed-2ff5-3ed8-0406-08eeb3f4504b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1560,7 +1566,10 @@
     "677433ca-643b-46a2-a9a4-ef02513b966c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Yeti/Monster_Idle.anim.nasset"
+        "path": "Assets/Characters/Yeti/Monster_Idle.anim.nasset",
+        "dependencies": [
+            "7f0899ff-c944-13d3-fe5e-4ae737d64a2b"
+        ]
     },
     "68248690-1526-9a40-df91-c72450301943": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2234,7 +2243,10 @@
     "8d665860-4ffa-4a0d-87a7-24bd7c0fc365": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Yeti/Monster_Walk.anim.nasset"
+        "path": "Assets/Characters/Yeti/Monster_Walk.anim.nasset",
+        "dependencies": [
+            "7f0899ff-c944-13d3-fe5e-4ae737d64a2b"
+        ]
     },
     "8e049321-a5d5-3db6-f540-bee30747ba51": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2870,7 +2882,10 @@
     "ad74b9c5-4bc9-4638-85aa-c0964b90777c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Yeti/Monster_Jump_End.anim.nasset"
+        "path": "Assets/Characters/Yeti/Monster_Jump_End.anim.nasset",
+        "dependencies": [
+            "7f0899ff-c944-13d3-fe5e-4ae737d64a2b"
+        ]
     },
     "ad8f2287-51fa-e377-00b5-b8112dec6f27": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3503,7 +3518,10 @@
     "d1453db8-7ce5-41cc-bd6a-b2e0f29c3e82": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Yeti/Monster_Run.anim.nasset"
+        "path": "Assets/Characters/Yeti/Monster_Run.anim.nasset",
+        "dependencies": [
+            "7f0899ff-c944-13d3-fe5e-4ae737d64a2b"
+        ]
     },
     "d267e1f0-1f56-22db-98d2-5258ef425a03": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
