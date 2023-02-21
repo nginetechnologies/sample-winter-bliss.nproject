@@ -1,7 +1,7 @@
 {
     "name": "Winter Bliss",
     "guid": "dc90e968-09d9-40ca-bca0-9f6cc6a20c64",
-    "database_guid": "0e0f77fa-a587-bd2e-700f-aa17a9342823",
+    "database_guid": "807d69a9-56ec-4032-bb92-d081df336672",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
