@@ -1,9 +1,9 @@
 {
-    "guid": "e00d2045-54ea-9a72-b31c-f2412eeec7d3",
+    "guid": "c90fa64a-d7db-a461-848c-6bac6bed6dd7",
     "source": "../SK_Monster_Yeti.fbx",
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "754bc3ed-4f1f-bcce-63c0-a7a8754eceed",
+    "instanceGuid": "f4823d27-1854-65b6-8c9a-a8ef8de2ba30",
     "data_components": [
         {
             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -13,7 +13,7 @@
     "children": [
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "1163381b-16bf-7daf-f757-567a66f698dc",
+            "instanceGuid": "fcb80c3d-8aaf-e130-eb7f-04769e52f429",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -21,14 +21,14 @@
                 }
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "b971080e-ddba-cdae-3b0d-98a7eeffd5d5"
+                "scene": "d37dcd45-8be5-709a-37da-75eb11001f43"
             }
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "e00d2045-54ea-9a72-b31c-f2412eeec7d3"
+        "scene": "c90fa64a-d7db-a461-848c-6bac6bed6dd7"
     },
     "dependencies": [
-        "b971080e-ddba-cdae-3b0d-98a7eeffd5d5"
+        "d37dcd45-8be5-709a-37da-75eb11001f43"
     ]
 }

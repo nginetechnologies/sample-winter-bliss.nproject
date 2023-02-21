@@ -4,19 +4,23 @@
     "dependencies": [
         "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
     ],
-    "material": "a897cdfa-a65f-4222-a5ab-d64df68c17b6",
+    "material": "40BCFD38-00D8-4D1C-B231-1F8F77B23C9A",
     "push_constants": [
         {
             "type": 0,
-            "color": "#ffa407"
+            "color": "#ffa500"
         },
         {
             "type": 1,
-            "value": 0.4931
+            "value": 0.0
         },
         {
             "type": 1,
-            "value": 0.5527
+            "value": 1.0
+        },
+        {
+            "type": 1,
+            "value": 0.33
         }
     ],
     "thumbnailGuid": "84b8059a-c1f1-429c-4cb2-27be473f048a"

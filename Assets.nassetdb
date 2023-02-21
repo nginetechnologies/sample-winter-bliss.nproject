@@ -11,6 +11,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "00a44860-86ec-9d56-8884-bb309009f9e5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Yeti/Material Instances/Eye White.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "011025d7-31b5-cf6a-3d22-3f5b2f5bf613": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -87,6 +94,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Train Tender.mesh.nasset/Thumbnails/Train Tender.mesh.nasset.tex.nasset"
     },
+    "0bc13d0b-7b00-63dd-e58f-afac8d853d76": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Eye White.meshskin.nasset",
+        "dependencies": [
+            "fba40499-5e00-8b9b-ee75-61fb4f6e1e96",
+            "7f0899ff-c944-13d3-fe5e-4ae737d64a2b",
+            "00a44860-86ec-9d56-8884-bb309009f9e5"
+        ]
+    },
     "0d1b6576-e22e-9d79-fba5-07983e761aef": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Train Grey.mtli.nasset",
@@ -122,6 +139,16 @@
     "0e7c086b-0fa3-5671-8dc4-426d18e68f62": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Ribbon.mtli.nasset.tex.nasset"
+    },
+    "0f16b758-1994-f280-1722-ea4f5f188ac8": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Tongue.meshskin.nasset",
+        "dependencies": [
+            "aaf97cf2-76a1-9b00-4e7d-0b27091ad423",
+            "7f0899ff-c944-13d3-fe5e-4ae737d64a2b",
+            "2137acc1-f67e-f1c4-f6ae-0420ab4531f4"
+        ]
     },
     "0f1cf6ca-1638-c0b1-4062-b2038b5bdda5": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -180,7 +207,7 @@
     "0fd6b31f-62b0-42e3-8ca4-2853d3a7a723": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/AAA_Animations/Monster_Jump_Start.anim.nasset"
+        "path": "Assets/Characters/Yeti/Monster_Jump_Start.anim.nasset"
     },
     "10d94ca4-76e8-33f4-27a8-074092bcda16": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -220,13 +247,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7",
             "0f2ac58b-a6e6-0d55-b2a3-295856ba95f4",
             "e016f1ea-7233-1e70-fd25-5a066c7db0f4"
-        ]
-    },
-    "1204be3c-977e-34eb-1fba-11873692f7a1": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Yeti/Material Instances/Yeti Teeth.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "125cd13e-752a-656c-834f-531221e131bb": {
@@ -433,6 +453,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "2137acc1-f67e-f1c4-f6ae-0420ab4531f4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Yeti/Material Instances/Tongue.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "2168295e-8fb8-e682-42b3-a9d7418c6979": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -443,13 +470,6 @@
         "dependencies": [
             "c8e613df-8d13-b8cc-6a9b-aca9d76a98c0",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "2261282a-ec6e-7249-35be-6bfdad0755cd": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Yeti/Material Instances/Eye Black.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "228d2a76-efeb-cfa9-2209-9a5de6b2292e": {
@@ -476,6 +496,13 @@
             "70324f8b-e68d-ed1a-b97a-ce5c84ccdd5d",
             "4960312a-a820-9277-a265-90e1831fcf37",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "22c6bcc5-eb59-bc77-0fac-8641ba66978e": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Yeti/Material Instances/Fur.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "2313ca42-11ef-df82-e96b-540f32c6a99c": {
@@ -590,18 +617,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Snow Path.mtli.nasset.tex.nasset"
     },
-    "2eacdca1-c55a-2ed5-206a-4ceea0fd50cd": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "4c98d29e-169b-e145-721d-a145b7efbab8",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "2ed1d9fd-1f7b-3457-e2ea-9fe2bcb56a37": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Tree Pine.mesh.nasset/Thumbnails/Tree Pine.mesh.nasset.tex.nasset"
@@ -609,18 +624,6 @@
     "2f48e2d9-675e-7a82-4ef7-59747ff8ece4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Skinny Logs.mesh.nasset/Thumbnails/Skinny Logs.mesh.nasset.tex.nasset"
-    },
-    "2faa50ba-2b11-bfcc-3046-66d06f31f36c": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/AAA_Animations/Skeletons/RootNode.skel.nasset"
-    },
-    "30a66d9c-580c-abb5-a125-0e53d92b5508": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Yeti/Material Instances/pasted  Birb Secondary.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
     },
     "30b0922d-1b6a-214b-2881-9cb622521e10": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -928,7 +931,7 @@
     "46731b77-9108-4ad7-8e8c-32f92b0c1a7b": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/AAA_Animations/Monster_Jump_Loop.anim.nasset"
+        "path": "Assets/Characters/Yeti/Monster_Jump_Loop.anim.nasset"
     },
     "4699efed-2ff5-3ed8-0406-08eeb3f4504b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -998,6 +1001,18 @@
         "path": "Assets/Source/SM_Ocean.scene.nasset/SM_Ocean.mesh.nasset",
         "dependencies": [
             "4453e87f-10aa-d3dc-3489-358d7d6c56d9",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "48d7fe63-8e7f-9cd5-a81b-be7e26bb7bff": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Eye Black.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "621c543e-ee23-7a25-eaa9-82d455a047d7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1093,13 +1108,6 @@
             "ed45be3c-2388-5f11-afe8-6d3fe43217f9"
         ]
     },
-    "4c98d29e-169b-e145-721d-a145b7efbab8": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Yeti/Material Instances/Yeti Secondary.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "4c9de9c9-94d5-2378-7655-c480282149b4": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1152,11 +1160,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "4e63de9d-9509-55bf-d83f-d3a60ec1faca": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "502ef07e-1dc7-5c33-ad1a-34ae58496df1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1196,6 +1199,16 @@
     "51695b06-c9f0-9db0-6813-62984cdc7c2c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Present Low.mesh.nasset/Thumbnails/Present Low.mesh.nasset.tex.nasset"
+    },
+    "51a074df-adec-5171-5a73-1c83f7fd175d": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Trim.meshskin.nasset",
+        "dependencies": [
+            "be711abb-ee38-80a3-e5af-63530a76ef48",
+            "7f0899ff-c944-13d3-fe5e-4ae737d64a2b",
+            "71d5ea65-b9ab-736f-2e00-7b8fa4839021"
+        ]
     },
     "526f91b0-8f25-8c3f-da8e-aae5ad7458d7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1451,16 +1464,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Cabin 4.mesh.nasset/Thumbnails/Cabin 4.mesh.nasset.tex.nasset"
     },
-    "630e16b7-3a37-e005-e8e0-d9c5ce690368": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti pasted  Birb Secondary.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
+    "621c543e-ee23-7a25-eaa9-82d455a047d7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Yeti/Material Instances/Eye Black.mtli.nasset",
         "dependencies": [
-            "30a66d9c-580c-abb5-a125-0e53d92b5508",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "63ab25ad-0d55-965f-b22f-58b6ef1ea9d5": {
@@ -1531,18 +1539,6 @@
             "b7ed6833-f0be-1cd8-0c3f-eee818c38144"
         ]
     },
-    "65eba5cb-fc0a-6d81-e2c7-c5bfda1d6825": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Tongue.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "fc2aab4e-ddba-fb5e-d04a-dff4ee9b86d1",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "661c7c5f-3dcb-3775-8c71-2f29c83d17f1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1564,7 +1560,7 @@
     "677433ca-643b-46a2-a9a4-ef02513b966c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/AAA_Animations/Monster_Idle.anim.nasset"
+        "path": "Assets/Characters/Yeti/Monster_Idle.anim.nasset"
     },
     "68248690-1526-9a40-df91-c72450301943": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1590,16 +1586,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "688de11a-25e7-be88-bd36-c7b2dc370c33": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Teeth.meshskin.nasset",
-        "dependencies": [
-            "897e9248-8be2-fe3d-9341-1df614ddc0a6",
-            "4e63de9d-9509-55bf-d83f-d3a60ec1faca",
-            "1204be3c-977e-34eb-1fba-11873692f7a1"
-        ]
-    },
     "68ef2c0f-0e13-797c-e6e3-1da50f915b74": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1623,6 +1609,18 @@
         "dependencies": [
             "c8e613df-8d13-b8cc-6a9b-aca9d76a98c0",
             "a43e8b43-dee0-aa53-a381-348186579e9a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "6923b3da-9441-5172-4e08-2eab4dd16c67": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Teeth.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "8cc8877d-6409-4831-9ae0-3c5fcc7c267d",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1718,19 +1716,22 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "6d88cac6-f2ee-841b-8ca2-25a37e0cc608": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Yeti/Material Instances/Eye White.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "6e0f4482-3db6-34e9-ebb6-d354e8826d49": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Source/Material Instances/Gold.mtli.nasset",
         "thumbnail": "84b8059a-c1f1-429c-4cb2-27be473f048a",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "6e37098d-0dec-bc1b-b605-9808ec0f1622": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Secondary.meshskin.nasset",
+        "dependencies": [
+            "bba7bb6b-d1e2-d4c3-771e-fb40569ab204",
+            "7f0899ff-c944-13d3-fe5e-4ae737d64a2b",
+            "89bb5c34-0553-9e97-decf-94037e17663c"
         ]
     },
     "6e51224a-61e6-b09d-c5a3-5a09c82a6a6c": {
@@ -1774,18 +1775,6 @@
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
-    "705ef95e-dd3c-61f5-5c60-8e644f932fe5": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Eye White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "6d88cac6-f2ee-841b-8ca2-25a37e0cc608",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "70f266b7-6fb0-b43e-4dab-cc50dc4532e1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1796,6 +1785,13 @@
         "dependencies": [
             "4190396c-95ed-ea4f-1dcb-41c43ada6355",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "71d5ea65-b9ab-736f-2e00-7b8fa4839021": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Yeti/Material Instances/Trim.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "739f805d-b943-4362-cd95-e9a8ea40da89": {
@@ -1950,18 +1946,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "7da96171-7dd6-c13c-aa8c-2efe7ae1d623": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Main.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "b547fb44-c46f-b6a8-a41c-28fe9867164f",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "7e561678-b2a4-b8df-3bfb-57b91f410481": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Elm 06.mesh.nasset/Thumbnails/Elm 06.mesh.nasset.tex.nasset"
@@ -2025,6 +2009,11 @@
             "c8e613df-8d13-b8cc-6a9b-aca9d76a98c0",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "7f0899ff-c944-13d3-fe5e-4ae737d64a2b": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "7ff69225-123f-29d9-24a3-43d8344329ff": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2172,31 +2161,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Tree Pine Snowed.mesh.nasset/Thumbnails/Tree Pine Snowed.mesh.nasset.tex.nasset"
     },
-    "889a3164-36fd-2deb-4503-757debac6b2c": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Eye White.meshskin.nasset",
-        "dependencies": [
-            "705ef95e-dd3c-61f5-5c60-8e644f932fe5",
-            "4e63de9d-9509-55bf-d83f-d3a60ec1faca",
-            "6d88cac6-f2ee-841b-8ca2-25a37e0cc608"
-        ]
-    },
-    "897e9248-8be2-fe3d-9341-1df614ddc0a6": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Teeth.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "1204be3c-977e-34eb-1fba-11873692f7a1",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
     "898e09c8-c4aa-c855-b2bf-38988ad0539a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Cabin 2.mesh.nasset/Thumbnails/Cabin 2.mesh.nasset.tex.nasset"
+    },
+    "89bb5c34-0553-9e97-decf-94037e17663c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Yeti/Material Instances/Secondary.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
     },
     "8a861907-c97c-e12d-1f08-aaad7efcbddd": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2234,6 +2208,13 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Train Grey.mtli.nasset.tex.nasset"
     },
+    "8cc8877d-6409-4831-9ae0-3c5fcc7c267d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Yeti/Material Instances/Yeti Teeth.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "8ccb2e9e-5157-6f0b-1e0e-31ad9d43e477": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2253,7 +2234,7 @@
     "8d665860-4ffa-4a0d-87a7-24bd7c0fc365": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/AAA_Animations/Monster_Walk.anim.nasset"
+        "path": "Assets/Characters/Yeti/Monster_Walk.anim.nasset"
     },
     "8e049321-a5d5-3db6-f540-bee30747ba51": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -2816,6 +2797,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "aa46038c-8672-14a0-05cb-eac4a4d9ba88": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Eye Black.meshskin.nasset",
+        "dependencies": [
+            "48d7fe63-8e7f-9cd5-a81b-be7e26bb7bff",
+            "7f0899ff-c944-13d3-fe5e-4ae737d64a2b",
+            "621c543e-ee23-7a25-eaa9-82d455a047d7"
+        ]
+    },
     "aaabc3ce-8447-7454-7da6-bf727b4eb43f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2830,6 +2821,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7",
             "bf5468f8-4598-91fa-32c9-36d7987afc88",
             "509225f6-4510-4db7-3502-65f9b0b6dfcb"
+        ]
+    },
+    "aaf97cf2-76a1-9b00-4e7d-0b27091ad423": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Tongue.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "2137acc1-f67e-f1c4-f6ae-0420ab4531f4",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "ab748a70-86bf-2766-8394-6c734ad1ebbf": {
@@ -2867,7 +2870,7 @@
     "ad74b9c5-4bc9-4638-85aa-c0964b90777c": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/AAA_Animations/Monster_Jump_End.anim.nasset"
+        "path": "Assets/Characters/Yeti/Monster_Jump_End.anim.nasset"
     },
     "ad8f2287-51fa-e377-00b5-b8112dec6f27": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2879,16 +2882,6 @@
         "thumbnail": "d680c8fa-99ce-9bbb-26a2-e5725000fed9",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "afeb45f4-6e80-4e98-4330-85af3773c373": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Tongue.meshskin.nasset",
-        "dependencies": [
-            "65eba5cb-fc0a-6d81-e2c7-c5bfda1d6825",
-            "4e63de9d-9509-55bf-d83f-d3a60ec1faca",
-            "fc2aab4e-ddba-fb5e-d04a-dff4ee9b86d1"
         ]
     },
     "b04a9c58-4fc5-fd00-da3b-f982f83cd425": {
@@ -2933,6 +2926,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b114486a-5be1-2552-fa8b-94382d09d7b3": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Fur.meshskin.nasset",
+        "dependencies": [
+            "bd88d270-b6b0-6f02-a9c5-c6e8bdee7c6b",
+            "7f0899ff-c944-13d3-fe5e-4ae737d64a2b",
+            "22c6bcc5-eb59-bc77-0fac-8641ba66978e"
+        ]
+    },
     "b12ab24c-437a-5a14-297d-5953bf9597ce": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2975,16 +2978,6 @@
             "fe6f825d-938c-32ac-433c-4b6c08d692e6"
         ]
     },
-    "b4b19d19-6879-5982-fdde-5042be6753dd": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti pasted  Birb Secondary.meshskin.nasset",
-        "dependencies": [
-            "630e16b7-3a37-e005-e8e0-d9c5ce690368",
-            "4e63de9d-9509-55bf-d83f-d3a60ec1faca",
-            "30a66d9c-580c-abb5-a125-0e53d92b5508"
-        ]
-    },
     "b4baf526-d78e-87f2-adc2-35dd2e638129": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3001,13 +2994,6 @@
             "4cdd68e1-0253-3fa9-fb3c-69272c568bd8",
             "0f2ac58b-a6e6-0d55-b2a3-295856ba95f4",
             "1e925851-4dc5-657a-a657-8d9b9bbadf45"
-        ]
-    },
-    "b547fb44-c46f-b6a8-a41c-28fe9867164f": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Yeti/Material Instances/Yeti Main.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "b65aad29-d7a5-96c1-d20f-6d1c20fc9357": {
@@ -3096,38 +3082,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Mound 02.mesh.nasset/Thumbnails/Mound 02.mesh.nasset.tex.nasset"
     },
-    "b971080e-ddba-cdae-3b0d-98a7eeffd5d5": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "30a66d9c-580c-abb5-a125-0e53d92b5508",
-            "630e16b7-3a37-e005-e8e0-d9c5ce690368",
-            "b4b19d19-6879-5982-fdde-5042be6753dd",
-            "1204be3c-977e-34eb-1fba-11873692f7a1",
-            "897e9248-8be2-fe3d-9341-1df614ddc0a6",
-            "688de11a-25e7-be88-bd36-c7b2dc370c33",
-            "b547fb44-c46f-b6a8-a41c-28fe9867164f",
-            "7da96171-7dd6-c13c-aa8c-2efe7ae1d623",
-            "fb5169b9-6d87-8a96-a14e-649582c4bb62",
-            "4c98d29e-169b-e145-721d-a145b7efbab8",
-            "2eacdca1-c55a-2ed5-206a-4ceea0fd50cd",
-            "c2192fc1-18c0-311f-0bd1-51db8c9ff671",
-            "2261282a-ec6e-7249-35be-6bfdad0755cd",
-            "c48be1b0-808a-e571-b249-9ac6a3a5007a",
-            "cee6a93d-8670-d217-69cb-8ed42dd5d622",
-            "fc2aab4e-ddba-fb5e-d04a-dff4ee9b86d1",
-            "65eba5cb-fc0a-6d81-e2c7-c5bfda1d6825",
-            "afeb45f4-6e80-4e98-4330-85af3773c373",
-            "6d88cac6-f2ee-841b-8ca2-25a37e0cc608",
-            "705ef95e-dd3c-61f5-5c60-8e644f932fe5",
-            "889a3164-36fd-2deb-4503-757debac6b2c",
-            "4e63de9d-9509-55bf-d83f-d3a60ec1faca"
-        ]
-    },
     "b98c68c6-3efb-3c5f-fb3d-b1739782e128": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3160,6 +3114,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "bba7bb6b-d1e2-d4c3-771e-fb40569ab204": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Secondary.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "89bb5c34-0553-9e97-decf-94037e17663c",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "bc6443de-2c48-ce13-5c19-c33c0422312b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3189,6 +3155,30 @@
         ],
         "dependencies": [
             "68517261-27b2-f6cf-37e5-d6f5e28e8780",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "bd88d270-b6b0-6f02-a9c5-c6e8bdee7c6b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Fur.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "22c6bcc5-eb59-bc77-0fac-8641ba66978e",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "be711abb-ee38-80a3-e5af-63530a76ef48": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Trim.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "71d5ea65-b9ab-736f-2e00-7b8fa4839021",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -3298,16 +3288,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "c2192fc1-18c0-311f-0bd1-51db8c9ff671": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Secondary.meshskin.nasset",
-        "dependencies": [
-            "2eacdca1-c55a-2ed5-206a-4ceea0fd50cd",
-            "4e63de9d-9509-55bf-d83f-d3a60ec1faca",
-            "4c98d29e-169b-e145-721d-a145b7efbab8"
-        ]
-    },
     "c2c31f83-2c45-113d-c3e9-ab8373a22920": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Elm 01.mesh.nasset/Thumbnails/Elm 01.mesh.nasset.tex.nasset"
@@ -3333,18 +3313,6 @@
         ],
         "dependencies": [
             "bf5468f8-4598-91fa-32c9-36d7987afc88",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "c48be1b0-808a-e571-b249-9ac6a3a5007a": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Eye Black.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "2261282a-ec6e-7249-35be-6bfdad0755cd",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -3406,6 +3374,14 @@
         "thumbnail": "ab911851-2430-1c0f-21e7-588e3356c7b9",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "c90fa64a-d7db-a461-848c-6bac6bed6dd7": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK_Monster_Yeti.scene.nasset",
+        "dependencies": [
+            "d37dcd45-8be5-709a-37da-75eb11001f43"
         ]
     },
     "c9620cb0-3db7-5619-fa79-8e72677fbf0f": {
@@ -3512,16 +3488,6 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
-    "cee6a93d-8670-d217-69cb-8ed42dd5d622": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Eye Black.meshskin.nasset",
-        "dependencies": [
-            "c48be1b0-808a-e571-b249-9ac6a3a5007a",
-            "4e63de9d-9509-55bf-d83f-d3a60ec1faca",
-            "2261282a-ec6e-7249-35be-6bfdad0755cd"
-        ]
-    },
     "cefcbd93-a472-a676-04e6-838fb9e74063": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3537,7 +3503,7 @@
     "d1453db8-7ce5-41cc-bd6a-b2e0f29c3e82": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/AAA_Animations/Monster_Run.anim.nasset"
+        "path": "Assets/Characters/Yeti/Monster_Run.anim.nasset"
     },
     "d267e1f0-1f56-22db-98d2-5258ef425a03": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3549,6 +3515,38 @@
         "dependencies": [
             "58a90cbd-ce71-7262-d43e-324eacc648f9",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "d37dcd45-8be5-709a-37da-75eb11001f43": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "89bb5c34-0553-9e97-decf-94037e17663c",
+            "bba7bb6b-d1e2-d4c3-771e-fb40569ab204",
+            "6e37098d-0dec-bc1b-b605-9808ec0f1622",
+            "8cc8877d-6409-4831-9ae0-3c5fcc7c267d",
+            "6923b3da-9441-5172-4e08-2eab4dd16c67",
+            "f6c2eea1-89be-ac4f-0ba3-f09c8d87d40c",
+            "22c6bcc5-eb59-bc77-0fac-8641ba66978e",
+            "bd88d270-b6b0-6f02-a9c5-c6e8bdee7c6b",
+            "b114486a-5be1-2552-fa8b-94382d09d7b3",
+            "71d5ea65-b9ab-736f-2e00-7b8fa4839021",
+            "be711abb-ee38-80a3-e5af-63530a76ef48",
+            "51a074df-adec-5171-5a73-1c83f7fd175d",
+            "621c543e-ee23-7a25-eaa9-82d455a047d7",
+            "48d7fe63-8e7f-9cd5-a81b-be7e26bb7bff",
+            "aa46038c-8672-14a0-05cb-eac4a4d9ba88",
+            "2137acc1-f67e-f1c4-f6ae-0420ab4531f4",
+            "aaf97cf2-76a1-9b00-4e7d-0b27091ad423",
+            "0f16b758-1994-f280-1722-ea4f5f188ac8",
+            "00a44860-86ec-9d56-8884-bb309009f9e5",
+            "fba40499-5e00-8b9b-ee75-61fb4f6e1e96",
+            "0bc13d0b-7b00-63dd-e58f-afac8d853d76",
+            "7f0899ff-c944-13d3-fe5e-4ae737d64a2b"
         ]
     },
     "d4056094-1310-bf13-8119-5bf7654d63bc": {
@@ -3677,14 +3675,6 @@
         "thumbnail": "0daba8c6-80c2-3c85-fd6f-19dde1ce50c1",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "e00d2045-54ea-9a72-b31c-f2412eeec7d3": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK_Monster_Yeti.scene.nasset",
-        "dependencies": [
-            "b971080e-ddba-cdae-3b0d-98a7eeffd5d5"
         ]
     },
     "e016f1ea-7233-1e70-fd25-5a066c7db0f4": {
@@ -4131,6 +4121,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/Material Instances/Thumbnails/Wood Light.mtli.nasset.tex.nasset"
     },
+    "f6c2eea1-89be-ac4f-0ba3-f09c8d87d40c": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Teeth.meshskin.nasset",
+        "dependencies": [
+            "6923b3da-9441-5172-4e08-2eab4dd16c67",
+            "7f0899ff-c944-13d3-fe5e-4ae737d64a2b",
+            "8cc8877d-6409-4831-9ae0-3c5fcc7c267d"
+        ]
+    },
     "f7979430-f6ef-8cb1-b53a-197e7814729e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4193,21 +4193,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Source/SC_Winter_Bliss.scene.nasset/Present Single 1.mesh.nasset/Thumbnails/Present Single 1.mesh.nasset.tex.nasset"
     },
-    "fb5169b9-6d87-8a96-a14e-649582c4bb62": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Yeti Main.meshskin.nasset",
+    "fba40499-5e00-8b9b-ee75-61fb4f6e1e96": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Yeti/SK_Monster_Yeti.scene.nasset/SK Yeti.mesh.nasset/SK Yeti Eye White.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
         "dependencies": [
-            "7da96171-7dd6-c13c-aa8c-2efe7ae1d623",
-            "4e63de9d-9509-55bf-d83f-d3a60ec1faca",
-            "b547fb44-c46f-b6a8-a41c-28fe9867164f"
-        ]
-    },
-    "fc2aab4e-ddba-fb5e-d04a-dff4ee9b86d1": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Yeti/Material Instances/Tongue.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+            "00a44860-86ec-9d56-8884-bb309009f9e5",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
     "fd60b0e3-4c2e-7ac8-6c71-ba392308ca74": {

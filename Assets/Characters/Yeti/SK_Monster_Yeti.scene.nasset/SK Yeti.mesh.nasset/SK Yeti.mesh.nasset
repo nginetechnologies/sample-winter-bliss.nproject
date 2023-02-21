@@ -1,16 +1,16 @@
 {
-    "guid": "b971080e-ddba-cdae-3b0d-98a7eeffd5d5",
+    "guid": "d37dcd45-8be5-709a-37da-75eb11001f43",
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-    "instanceGuid": "a6ba0663-1a84-6015-efa8-32032e67f3e1",
+    "instanceGuid": "7cf338dc-6e00-653f-e564-ec5c260130ac",
     "data_components": [],
     "children": [
         {
             "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "f8396d4d-b966-5e74-5f42-8f94c8032e03",
+            "instanceGuid": "5fd3bb27-7e27-93af-84cd-5a6945667594",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -37,7 +37,7 @@
             "children": [
                 {
                     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-                    "instanceGuid": "353941e2-08be-fa28-09b0-84245eb7899a",
+                    "instanceGuid": "a0311a6e-6edc-024d-38b9-fe19c7497c93",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -47,11 +47,11 @@
                     "children": [
                         {
                             "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "d43eb62e-2943-02f3-ce5e-94ce01e01d7b",
+                            "instanceGuid": "9a5022f9-cb9f-3928-5bcc-0c18a0d774ad",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "SK Yeti pasted  Birb Secondary"
+                                    "name": "SK Yeti Secondary"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -61,16 +61,16 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "630e16b7-3a37-e005-e8e0-d9c5ce690368",
-                                "material_instance": "30a66d9c-580c-abb5-a125-0e53d92b5508"
+                                "mesh": "bba7bb6b-d1e2-d4c3-771e-fb40569ab204",
+                                "material_instance": "89bb5c34-0553-9e97-decf-94037e17663c"
                             },
                             "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-                                "skin": "b4b19d19-6879-5982-fdde-5042be6753dd"
+                                "skin": "6e37098d-0dec-bc1b-b605-9808ec0f1622"
                             }
                         },
                         {
                             "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "210b0979-615d-a7da-af5d-24a590f59465",
+                            "instanceGuid": "8a7d57d2-8bbf-d23c-5d15-af8ca1c7027d",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -84,20 +84,20 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "897e9248-8be2-fe3d-9341-1df614ddc0a6",
-                                "material_instance": "1204be3c-977e-34eb-1fba-11873692f7a1"
+                                "mesh": "6923b3da-9441-5172-4e08-2eab4dd16c67",
+                                "material_instance": "8cc8877d-6409-4831-9ae0-3c5fcc7c267d"
                             },
                             "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-                                "skin": "688de11a-25e7-be88-bd36-c7b2dc370c33"
+                                "skin": "f6c2eea1-89be-ac4f-0ba3-f09c8d87d40c"
                             }
                         },
                         {
                             "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "c1ef5b15-04e3-56c4-b5f4-a0eea85de0f3",
+                            "instanceGuid": "0650697a-fea7-12c6-30f6-b72a1ec2f8c9",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "SK Yeti Yeti Main"
+                                    "name": "SK Yeti Fur"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -107,20 +107,20 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "7da96171-7dd6-c13c-aa8c-2efe7ae1d623",
-                                "material_instance": "b547fb44-c46f-b6a8-a41c-28fe9867164f"
+                                "mesh": "bd88d270-b6b0-6f02-a9c5-c6e8bdee7c6b",
+                                "material_instance": "22c6bcc5-eb59-bc77-0fac-8641ba66978e"
                             },
                             "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-                                "skin": "fb5169b9-6d87-8a96-a14e-649582c4bb62"
+                                "skin": "b114486a-5be1-2552-fa8b-94382d09d7b3"
                             }
                         },
                         {
                             "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "1237f848-7b71-f10a-c930-87981569b7a9",
+                            "instanceGuid": "7afb5519-2ea2-4f80-0fe1-56ab10b16fc8",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "SK Yeti Yeti Secondary"
+                                    "name": "SK Yeti Trim"
                                 }
                             ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
@@ -130,16 +130,16 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "2eacdca1-c55a-2ed5-206a-4ceea0fd50cd",
-                                "material_instance": "4c98d29e-169b-e145-721d-a145b7efbab8"
+                                "mesh": "be711abb-ee38-80a3-e5af-63530a76ef48",
+                                "material_instance": "71d5ea65-b9ab-736f-2e00-7b8fa4839021"
                             },
                             "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-                                "skin": "c2192fc1-18c0-311f-0bd1-51db8c9ff671"
+                                "skin": "51a074df-adec-5171-5a73-1c83f7fd175d"
                             }
                         },
                         {
                             "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "62d7bd24-9612-079c-197b-099c1aef16d0",
+                            "instanceGuid": "dc958905-7848-8d25-1751-8b4ae74bdfd9",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -153,16 +153,16 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "c48be1b0-808a-e571-b249-9ac6a3a5007a",
-                                "material_instance": "2261282a-ec6e-7249-35be-6bfdad0755cd"
+                                "mesh": "48d7fe63-8e7f-9cd5-a81b-be7e26bb7bff",
+                                "material_instance": "621c543e-ee23-7a25-eaa9-82d455a047d7"
                             },
                             "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-                                "skin": "cee6a93d-8670-d217-69cb-8ed42dd5d622"
+                                "skin": "aa46038c-8672-14a0-05cb-eac4a4d9ba88"
                             }
                         },
                         {
                             "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "615d4f2e-df21-5038-9e3d-e60c6c762e7a",
+                            "instanceGuid": "1d8c7974-fefd-28eb-03ef-a48e4ea4b847",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -176,16 +176,16 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "65eba5cb-fc0a-6d81-e2c7-c5bfda1d6825",
-                                "material_instance": "fc2aab4e-ddba-fb5e-d04a-dff4ee9b86d1"
+                                "mesh": "aaf97cf2-76a1-9b00-4e7d-0b27091ad423",
+                                "material_instance": "2137acc1-f67e-f1c4-f6ae-0420ab4531f4"
                             },
                             "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-                                "skin": "afeb45f4-6e80-4e98-4330-85af3773c373"
+                                "skin": "0f16b758-1994-f280-1722-ea4f5f188ac8"
                             }
                         },
                         {
                             "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-                            "instanceGuid": "da6d9a0d-ac75-4866-cf5c-62806d923b60",
+                            "instanceGuid": "c9180111-a1ba-1c3f-0f02-d80b558a3026",
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -199,46 +199,46 @@
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "705ef95e-dd3c-61f5-5c60-8e644f932fe5",
-                                "material_instance": "6d88cac6-f2ee-841b-8ca2-25a37e0cc608"
+                                "mesh": "fba40499-5e00-8b9b-ee75-61fb4f6e1e96",
+                                "material_instance": "00a44860-86ec-9d56-8884-bb309009f9e5"
                             },
                             "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-                                "skin": "889a3164-36fd-2deb-4503-757debac6b2c"
+                                "skin": "0bc13d0b-7b00-63dd-e58f-afac8d853d76"
                             }
                         }
                     ],
                     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-                        "skeleton": "2faa50ba-2b11-bfcc-3046-66d06f31f36c"
+                        "skeleton": "7f0899ff-c944-13d3-fe5e-4ae737d64a2b"
                     }
                 }
             ]
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "b971080e-ddba-cdae-3b0d-98a7eeffd5d5"
+        "scene": "d37dcd45-8be5-709a-37da-75eb11001f43"
     },
     "dependencies": [
-        "30a66d9c-580c-abb5-a125-0e53d92b5508",
-        "630e16b7-3a37-e005-e8e0-d9c5ce690368",
-        "b4b19d19-6879-5982-fdde-5042be6753dd",
-        "1204be3c-977e-34eb-1fba-11873692f7a1",
-        "897e9248-8be2-fe3d-9341-1df614ddc0a6",
-        "688de11a-25e7-be88-bd36-c7b2dc370c33",
-        "b547fb44-c46f-b6a8-a41c-28fe9867164f",
-        "7da96171-7dd6-c13c-aa8c-2efe7ae1d623",
-        "fb5169b9-6d87-8a96-a14e-649582c4bb62",
-        "4c98d29e-169b-e145-721d-a145b7efbab8",
-        "2eacdca1-c55a-2ed5-206a-4ceea0fd50cd",
-        "c2192fc1-18c0-311f-0bd1-51db8c9ff671",
-        "2261282a-ec6e-7249-35be-6bfdad0755cd",
-        "c48be1b0-808a-e571-b249-9ac6a3a5007a",
-        "cee6a93d-8670-d217-69cb-8ed42dd5d622",
-        "fc2aab4e-ddba-fb5e-d04a-dff4ee9b86d1",
-        "65eba5cb-fc0a-6d81-e2c7-c5bfda1d6825",
-        "afeb45f4-6e80-4e98-4330-85af3773c373",
-        "6d88cac6-f2ee-841b-8ca2-25a37e0cc608",
-        "705ef95e-dd3c-61f5-5c60-8e644f932fe5",
-        "889a3164-36fd-2deb-4503-757debac6b2c",
-        "4e63de9d-9509-55bf-d83f-d3a60ec1faca"
+        "89bb5c34-0553-9e97-decf-94037e17663c",
+        "bba7bb6b-d1e2-d4c3-771e-fb40569ab204",
+        "6e37098d-0dec-bc1b-b605-9808ec0f1622",
+        "8cc8877d-6409-4831-9ae0-3c5fcc7c267d",
+        "6923b3da-9441-5172-4e08-2eab4dd16c67",
+        "f6c2eea1-89be-ac4f-0ba3-f09c8d87d40c",
+        "22c6bcc5-eb59-bc77-0fac-8641ba66978e",
+        "bd88d270-b6b0-6f02-a9c5-c6e8bdee7c6b",
+        "b114486a-5be1-2552-fa8b-94382d09d7b3",
+        "71d5ea65-b9ab-736f-2e00-7b8fa4839021",
+        "be711abb-ee38-80a3-e5af-63530a76ef48",
+        "51a074df-adec-5171-5a73-1c83f7fd175d",
+        "621c543e-ee23-7a25-eaa9-82d455a047d7",
+        "48d7fe63-8e7f-9cd5-a81b-be7e26bb7bff",
+        "aa46038c-8672-14a0-05cb-eac4a4d9ba88",
+        "2137acc1-f67e-f1c4-f6ae-0420ab4531f4",
+        "aaf97cf2-76a1-9b00-4e7d-0b27091ad423",
+        "0f16b758-1994-f280-1722-ea4f5f188ac8",
+        "00a44860-86ec-9d56-8884-bb309009f9e5",
+        "fba40499-5e00-8b9b-ee75-61fb4f6e1e96",
+        "0bc13d0b-7b00-63dd-e58f-afac8d853d76",
+        "7f0899ff-c944-13d3-fe5e-4ae737d64a2b"
     ]
 }

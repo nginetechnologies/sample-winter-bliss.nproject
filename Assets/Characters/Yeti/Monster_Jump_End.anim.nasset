@@ -1,10 +1,10 @@
 {
     "source": "A_Monster_Jump_End.fbx",
-    "skeleton": "2faa50ba-2b11-bfcc-3046-66d06f31f36c",
+    "skeleton": "7f0899ff-c944-13d3-fe5e-4ae737d64a2b",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "a7edeebb-4fb2-10a7-a89c-c941f4b4f368",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "2faa50ba-2b11-bfcc-3046-66d06f31f36c"
+        "skeleton": "7f0899ff-c944-13d3-fe5e-4ae737d64a2b"
     },
     "data_components": [
         {

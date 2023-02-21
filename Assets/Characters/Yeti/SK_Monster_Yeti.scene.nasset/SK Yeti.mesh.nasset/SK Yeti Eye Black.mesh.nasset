@@ -1,7 +1,7 @@
 {
-    "guid": "c48be1b0-808a-e571-b249-9ac6a3a5007a",
+    "guid": "48d7fe63-8e7f-9cd5-a81b-be7e26bb7bff",
     "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-    "instanceGuid": "2019bc65-e1c1-8080-c234-59fd395fca35",
+    "instanceGuid": "3a8ad0b0-40ac-fa25-e171-cc74dac10ace",
     "data_components": [
         {
             "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
@@ -11,7 +11,7 @@
     "children": [
         {
             "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-            "instanceGuid": "a1c32407-9897-c88c-1fe7-a2bb1830410a",
+            "instanceGuid": "aec1f755-26eb-5cd4-2cf6-6c7aca10b68b",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -21,7 +21,7 @@
             "children": [
                 {
                     "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                    "instanceGuid": "a0984574-7a31-80e8-3329-8f9f796dca73",
+                    "instanceGuid": "f907795f-01d6-e459-a913-eeced95ba85c",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -35,13 +35,13 @@
                         ]
                     },
                     "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                        "mesh": "c48be1b0-808a-e571-b249-9ac6a3a5007a",
-                        "material_instance": "2261282a-ec6e-7249-35be-6bfdad0755cd"
+                        "mesh": "48d7fe63-8e7f-9cd5-a81b-be7e26bb7bff",
+                        "material_instance": "621c543e-ee23-7a25-eaa9-82d455a047d7"
                     }
                 }
             ],
             "508647ca-01f3-4930-9e33-4562692b719f": {
-                "mesh": "c48be1b0-808a-e571-b249-9ac6a3a5007a"
+                "mesh": "48d7fe63-8e7f-9cd5-a81b-be7e26bb7bff"
             },
             "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
                 "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
@@ -49,7 +49,7 @@
         }
     ],
     "dependencies": [
-        "2261282a-ec6e-7249-35be-6bfdad0755cd",
+        "621c543e-ee23-7a25-eaa9-82d455a047d7",
         "db5dc618-2cfe-44e9-a319-69c503d090e7"
     ],
     "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
