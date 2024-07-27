@@ -9,12 +9,67 @@
     "metadata": {
         "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[50.8383,-40.8587,10.6686],\"rotation\":[-31.8175,0.0,115.9377]}"
     },
-    "data_components": [
-        {
-            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
-        }
-    ],
     "children": [
+        {
+            "typeGuid": "d2c2c3a5-b813-4ab8-b52f-7986940e5b67",
+            "instanceGuid": "e9962f40-7e58-41b2-a7ad-8bdad86c2241",
+            "data_components": [
+                {
+                    "typeGuid": "22dce412-2016-4019-8392-90ff0294a32e"
+                },
+                {
+                    "typeGuid": "0eac250f-0917-43ea-871f-b6ae73ececf9"
+                },
+                {
+                    "typeGuid": "b17f5afc-5476-4345-82ae-56ea87607d17"
+                },
+                {
+                    "typeGuid": "a45076cb-ff23-4203-b378-c9c1e4eb98a6"
+                },
+                {
+                    "typeGuid": "1e7d22e0-52c4-4c64-8c37-20887eaee664"
+                },
+                {
+                    "typeGuid": "f1dad7f0-0053-4a05-af00-0cc2a88f1913",
+                    "asset": "ca38d06e-ea90-404e-af3d-749c406c6c09"
+                },
+                {
+                    "typeGuid": "7adde0df-a07d-45dc-999e-80066aed55a9"
+                },
+                {
+                    "typeGuid": "b60ddb15-deda-47d5-a53b-7a7289bc8ae3"
+                }
+            ]
+        },
+        {
+            "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -40,
+                    -1,
+                    39
+                ]
+            },
+            "ea45accb-89d5-4816-9831-f116045b90e4": {
+                "audio_asset": "c534bab4-a328-55a9-5573-36400a1487fa",
+                "looping": true,
+                "volume": 0.1,
+                "outer_radius": 1000
+            },
+            "data_components": [
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "5e708a6b-c902-c2a6-1370-905250c6f59c"
+                },
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Sound Spot"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905"
+                }
+            ]
+        },
         {
             "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
             "instanceGuid": "66e67897-fe94-7967-c14b-98b2be9be1a0",
@@ -4581,7 +4636,8 @@
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
-                "asset": "3dc053dc-464b-4d4e-89e8-dfc6359cf263"
+                "asset": "3dc053dc-464b-4d4e-89e8-dfc6359cf263",
+                "audio_asset": "2e5d6458-f003-4d2a-9a46-0f4926ec9e16"
             },
             "data_components": [
                 {
